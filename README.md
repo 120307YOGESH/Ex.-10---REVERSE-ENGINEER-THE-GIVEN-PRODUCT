@@ -32,11 +32,16 @@
 
 ## Input:
 
+![image](https://github.com/user-attachments/assets/9bb1cc38-d21f-43e7-b62f-0a2cf31a5f1f)
+
+
 ### Output:
 
+![image](https://github.com/user-attachments/assets/d543396b-35b7-426d-97db-ab77a198307e)
 
-### Name:
-### Register Number:
+
+### Name: S.YOGESH
+### Register Number: 212224230311
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
